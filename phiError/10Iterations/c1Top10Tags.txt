@@ -1,0 +1,12 @@
+Document 2 is in cluster: 1
+Printing out the top 10 tags for document 2
+instillation:1099.4245810055866
+methoxyfenozide:133.30167597765364
+sodium-sensitive:7.050966480446924
+post-infectious:1.4564804469273744
+teleological:0.9809497206703911
+fall-off:0.7368156424581006
+anserine:0.6871508379888268
+neodymium:0.5257541899441338
+spc:0.4845251396648046
+cdase:0.4008938547486033
